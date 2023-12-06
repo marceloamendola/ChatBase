@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iobcloud.chatbase.service.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "u7k1WV6Bn/dPuOpxYhjYAC1c2K7LPEV9LvDEzriWzuU=",
+  "Source": "iobcloud.chatbase.service",
+  "BasePath": "_content/iobcloud.chatbase.service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
